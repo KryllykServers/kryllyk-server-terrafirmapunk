@@ -180,86 +180,6 @@
       },
       {
         "type": "before",
-        "target": "bspkrsCore"
-      },
-      {
-        "type": "before",
-        "target": "ArmorStatusHUD"
-      },
-      {
-        "type": "before",
-        "target": "DamageIndicatorsMod"
-      },
-      {
-        "type": "before",
-        "target": "SimpleAutoRun"
-      },
-      {
-        "type": "before",
-        "target": "BetterFoliage"
-      },
-      {
-        "type": "before",
-        "target": "DynamicLights"
-      },
-      {
-        "type": "before",
-        "target": "DynamicLights_onFire"
-      },
-      {
-        "type": "before",
-        "target": "DynamicLights_creepers"
-      },
-      {
-        "type": "before",
-        "target": "DynamicLights_dropItems"
-      },
-      {
-        "type": "before",
-        "target": "DynamicLights_entityClasses"
-      },
-      {
-        "type": "before",
-        "target": "DynamicLights_mobEquipment"
-      },
-      {
-        "type": "before",
-        "target": "DynamicLights_flameArrows"
-      },
-      {
-        "type": "before",
-        "target": "DynamicLights_floodLights"
-      },
-      {
-        "type": "before",
-        "target": "DynamicLights_otherPlayers"
-      },
-      {
-        "type": "before",
-        "target": "DynamicLights_thePlayer"
-      },
-      {
-        "type": "before",
-        "target": "iChunUtil"
-      },
-      {
-        "type": "before",
-        "target": "MobDismemberment"
-      },
-      {
-        "type": "before",
-        "target": "soundfilters"
-      },
-      {
-        "type": "before",
-        "target": "spawnchecker"
-      },
-      {
-        "type": "before",
-        "target": "spawnchecker.presetmode"
-      },
-      {
-        "type": "before",
         "target": "Cogs"
       },
       {
@@ -305,6 +225,10 @@
       {
         "type": "before",
         "target": "Steamcraft"
+      },
+      {
+        "type": "before",
+        "target": "iChunUtil"
       },
       {
         "type": "before",
@@ -545,6 +469,10 @@
       {
         "type": "before",
         "target": "ZAMod"
+      },
+      {
+        "type": "before",
+        "target": "bspkrsCore"
       },
       {
         "type": "before",

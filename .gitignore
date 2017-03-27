@@ -19,3 +19,11 @@ tags
 *.jar
 server.properties
 eula.txt
+ops.json
+whitelist.json
+world/
+*.log
+hats/
+banned-ips.json
+banned-players.json
+usercache.json
