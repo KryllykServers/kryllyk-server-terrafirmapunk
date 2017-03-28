@@ -29,6 +29,6 @@ player-idle-timeout=0
 max-players=20
 spawn-monsters=true
 generate-structures=true
-view-distance=10
+view-distance=7
 spawn-protection=0
 motd=Welcome to TerraFirmaPunk 2.0
