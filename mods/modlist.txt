@@ -1,7 +1,7 @@
 OpenModsLib-1.7.10-0.8.jar
 RandomThings-2.2.4.jar
 logisticspipes-0.9.3.114.jar
-Hats-4.0.1.jar
+Hats-4.0.1.jar.disabled
 fastcraft-1.21.jar
 BiblioCraft[v1.11.2][MC1.7.10].jar
 ComputerCraft1.75.jar

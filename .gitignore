@@ -17,6 +17,7 @@ tags
 # minecraft stuff
 #
 *.jar
+*.jar.disabled
 server.properties
 eula.txt
 ops.json

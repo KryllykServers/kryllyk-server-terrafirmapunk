@@ -228,19 +228,15 @@
       },
       {
         "type": "before",
-        "target": "iChunUtil"
-      },
-      {
-        "type": "before",
-        "target": "Hats"
-      },
-      {
-        "type": "before",
         "target": "herdCraft"
       },
       {
         "type": "before",
         "target": "HardcoreQuesting"
+      },
+      {
+        "type": "before",
+        "target": "iChunUtil"
       },
       {
         "type": "before",
