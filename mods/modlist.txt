@@ -93,3 +93,6 @@ boilerplate-1.7.10-6.2.1.68-universal.jar
 roguelike for TFC-1.7.10-1.0.3.jar
 buildcraft-7.1.14.jar
 Morpheus-1.7.10-1.6.21.jar
+FTBLib-1.7.10-1.0.18.3.jar
+FTBUtilities-1.7.10-1.0.18.3.jar
+

@@ -228,6 +228,26 @@
       },
       {
         "type": "before",
+        "target": "MineTweaker3"
+      },
+      {
+        "type": "before",
+        "target": "Waila"
+      },
+      {
+        "type": "before",
+        "target": "Baubles"
+      },
+      {
+        "type": "before",
+        "target": "FTBL"
+      },
+      {
+        "type": "before",
+        "target": "FTBU"
+      },
+      {
+        "type": "before",
         "target": "herdCraft"
       },
       {
@@ -325,10 +345,6 @@
       {
         "type": "before",
         "target": "MemoryCleaner"
-      },
-      {
-        "type": "before",
-        "target": "MineTweaker3"
       },
       {
         "type": "before",
@@ -456,10 +472,6 @@
       },
       {
         "type": "before",
-        "target": "Waila"
-      },
-      {
-        "type": "before",
         "target": "WailaHarvestability"
       },
       {
@@ -473,10 +485,6 @@
       {
         "type": "before",
         "target": "bspkrsCore"
-      },
-      {
-        "type": "before",
-        "target": "Baubles"
       },
       {
         "type": "before",
